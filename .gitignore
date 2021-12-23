@@ -1,0 +1,5 @@
+node_modules/
+vscode/
+github/
+# Add .npmrc when you have multiple node binaries.
+.npmrc
